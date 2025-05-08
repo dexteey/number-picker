@@ -22,3 +22,32 @@ Depois disso, o programa realiza o sorteio e pergunta se o usuário deseja repet
 
 ```bash
 sorteador.py
+```
+
+## 💡 Exemplo de uso
+
+```bash
+==SORTEIO DE NÚMEROS==
+
+Neste software, você irá escolher
+um número mínimo para X e um número 
+máximo para Y. Além disso, você também 
+pode escolher um número Z para a 
+quantidade de números a serem sortidos.
+
+Digite um número mínimo para X: 10
+Digite um número máximo para Y: 50
+Escolha a quantidade Z de números que irão ser sorteados: 5
+
+Sorteando...
+
+23
+11
+47
+32
+14
+
+Sorteio Concluído!
+
+Deseja repetir com os mesmos números? Digite 1 para SIM ou 2 para NÃO:
+```
